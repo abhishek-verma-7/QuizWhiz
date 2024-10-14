@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/abhishek-verma-7/QuizWhiz_Frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/abhishek-verma-7/QuizWhiz_Backend.git
